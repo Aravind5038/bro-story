@@ -1,0 +1,10 @@
+div{
+    box-sizing: border-box;
+    background-color: black;
+    width: 400px;
+    padding: 50px;
+    border: 5px double red;
+}
+table{
+    background-color: aliceblue;
+}
